@@ -1,1 +1,1 @@
-Movie ticket booking system
+Movie Ticket Booking System
